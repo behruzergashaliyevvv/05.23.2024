@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![size.png](D:\FlutterN12\Uy ishlari\05.23.2024\uyishi\assets\images)
-![Foydalanuvchi interfeysi](https://example.com/images/size.png)
+![size.png](https://example.com/images/size.png)
